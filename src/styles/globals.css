@@ -1,0 +1,9 @@
+/* Variables */
+/* Colors */
+:root {
+  --blue: #3b82f6;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
