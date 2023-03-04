@@ -29,5 +29,4 @@ const getReturnValues = (countDown: number) => {
   return [days, hours, minutes, seconds];
 };
 
-export { useCountdown };
 export default useCountdown;
